@@ -14,8 +14,8 @@ Với tư duy thiết kế, ta có quyền tự do tạo ra các giải pháp đ
 
 # DESIGN THIKING CÓ 5 BƯỚC CHÍNH
 
-Bước 1: Empathize - Nghiên cứu nhu cầu người dùng
-Bước 2: Define - Nêu nhu cầu và vấn đề của người dùng
-Bước 3: Ideate - Thách thức các giả định và tạo ý tưởng
-Bước 4: Prototype - Bắt đầu tạo giải pháp
-Bước 5: Test - Thử nghiệm giải pháp
+- Bước 1: Empathize - Nghiên cứu nhu cầu người dùng
+- Bước 2: Define - Nêu nhu cầu và vấn đề của người dùng
+- Bước 3: Ideate - Thách thức các giả định và tạo ý tưởng
+- Bước 4: Prototype - Bắt đầu tạo giải pháp
+- Bước 5: Test - Thử nghiệm giải pháp
