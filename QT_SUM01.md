@@ -1,5 +1,5 @@
 # QT-SUM01: SEMINAR SHTT
-# Nhóm N006:
+# Nhóm N003:
 - 18520329 Nguyễn Đỗ Tường Phát
 - 18520328 Trần Ngọc Yến Nhi
 - 18520414 Lường THị Thu Nguyệt
